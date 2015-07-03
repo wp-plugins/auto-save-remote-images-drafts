@@ -6,7 +6,7 @@ Description: WordPress plugin for downloading automatically first remote image f
 Author: Fernan Díez 
 Author URI: http://www.fernan.com.es/
 Disclaimer: No warranty or guarantee of any kind!  Use this in your own risk.  
-Version: 1.0
+Version: 1.0.0
 */
 
 add_action('save_post', 'fetch_images');
