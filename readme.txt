@@ -54,7 +54,7 @@ No configuration section included, so there are no screenshots available so far.
 
 = 1.0.0 =
 
-* Initial release.
+* Initial release of this plugin.
 
 == Upgrade Notice ==
 
