@@ -9,15 +9,13 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress plugin for downloading automatically first remote image from a post and setting it as a featured image (when the post is saved as a draft or updated).
+WordPress plugin for downloading automatically first remote image from a post and setting it as a featured image (when is saved as a draft or updated)
 
 == Description ==
 
 WordPress plugin for downloading automatically **first remote image from a post** and setting it as a **featured image** (when the post is saved as a draft or updated).
 
 The purpose of this plugin is very simple: when a post is saved as a draft (not published) or updated (once published), it will fetch the first remote or external image that is referenced. The image that is retrieved is then attached to the post as the featured image. There are no additional settings to configure.
-
-Please do not use this plugin to violate copyrights. Don't be evil.
 
 **Usage**
 
@@ -33,6 +31,8 @@ No longer overwriting a post existing featured image function added.
 
 * Based on [Auto Save Remote Image Plugin](https://wordpress.org/plugins/auto-save-remote-images/) created by Prebhdev Singh
 * New function added from [WP Auto Save Remote Image Plugin](https://github.com/cristoslc/wp-auto-save-remote-image) created by Cristos L-C.
+
+Please do not use this plugin to violate copyrights. Don't be evil.
 
 == Installation ==
 
